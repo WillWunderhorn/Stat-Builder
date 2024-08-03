@@ -4,4 +4,5 @@
 # Примеры графиков
 
 ![Image alt](https://github.com/WillWunderhorn/Stat-Builder/blob/main/total/total_acts.png)
+![Image alt](https://github.com/WillWunderhorn/Stat-Builder/blob/main/total/user_activity_avg.png)
 
